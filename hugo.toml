@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hero-ku.github.io/nihongo-burogu/'
 languageCode = 'en-us'
 title = "Andrew's Japanese learning blog"
 theme = 'diary'
