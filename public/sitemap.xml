@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://hero-ku.github.io/nihongo-burogu/</loc>
+    <lastmod>2025-02-23T22:11:44-06:00</lastmod>
+  </url><url>
+    <loc>https://hero-ku.github.io/nihongo-burogu/posts/</loc>
+    <lastmod>2025-02-23T22:11:44-06:00</lastmod>
+  </url><url>
+    <loc>https://hero-ku.github.io/nihongo-burogu/posts/weekly-update1/</loc>
+    <lastmod>2025-02-23T22:11:44-06:00</lastmod>
+  </url><url>
+    <loc>https://hero-ku.github.io/nihongo-burogu/posts/welcome/</loc>
     <lastmod>2025-02-15T02:24:41-06:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-02-15T02:24:41-06:00</lastmod>
+    <loc>https://hero-ku.github.io/nihongo-burogu/categories/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://hero-ku.github.io/nihongo-burogu/tags/</loc>
   </url>
 </urlset>

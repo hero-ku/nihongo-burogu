@@ -1,15 +1,26 @@
-<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew&#39;s Japanese learning blog</title>
-    <link>https://example.org/</link>
+    <link>https://hero-ku.github.io/nihongo-burogu/</link>
     <description>Recent content on Andrew&#39;s Japanese learning blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 02:24:41 -0600</lastBuildDate>
-    
-        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 23 Feb 2025 22:11:44 -0600</lastBuildDate>
+    <atom:link href="https://hero-ku.github.io/nihongo-burogu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Update 1: Rebuilding Anki streak &amp; first raw anime!</title>
+      <link>https://hero-ku.github.io/nihongo-burogu/posts/weekly-update1/</link>
+      <pubDate>Sun, 23 Feb 2025 22:11:44 -0600</pubDate>
+      <guid>https://hero-ku.github.io/nihongo-burogu/posts/weekly-update1/</guid>
+      <description>&lt;p&gt;This is the first of a series of Weekly Updates covering the progress I made on Japanese within the week.&#xA;I&amp;rsquo;ll also be going on random tangents of things I realized or came across.&lt;/p&gt;&#xA;&lt;h2 id=&#34;vocabulary&#34;&gt;Vocabulary&lt;/h2&gt;&#xA;&lt;p&gt;I started this blog last week because I recently returned to Japanese. I had previously used the Kaishi 1.5k Anki deck for a month on-and-off, learning a few hundred (maybe 300?) words.&#xA;I returned to it here and there but after the first month never made any significant progress. I&amp;rsquo;m excited to announce that I now have a 9-day streak!&#xA;Obviously this is a measly number, but it&amp;rsquo;s much better than the streaks of like 3 days that I was getting every few months after my initial month of Anki.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to my blog and where I am so far</title>
+      <link>https://hero-ku.github.io/nihongo-burogu/posts/welcome/</link>
+      <pubDate>Sat, 15 Feb 2025 02:24:41 -0600</pubDate>
+      <guid>https://hero-ku.github.io/nihongo-burogu/posts/welcome/</guid>
+      <description>&lt;h2 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h2&gt;&#xA;&lt;p&gt;This is my new blog that I&amp;rsquo;ve created to record progress in learning Japanese. I&amp;rsquo;ve barely started so far, mostly just bouncing from method to method, trying to figure out what to do in a sea of information.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m making this blog for myself, but feel free to stick around if you&amp;rsquo;re looking to measure another learner&amp;rsquo;s progress and compare results.&lt;/p&gt;&#xA;&lt;h2 id=&#34;where-i-am&#34;&gt;Where I am&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been interested in learning Japanese for around 4 years. In 2021, I picked up some familiarity with the hiragana syllabary.&#xA;I didn&amp;rsquo;t exercise it much and ultimately forgot about the language for 2 years.&lt;/p&gt;</description>
+    </item>
   </channel>
-</rss> 
+</rss>
